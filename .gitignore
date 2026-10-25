@@ -221,3 +221,6 @@ __marimo__/
 
 # Project data (RBI circulars, embeddings) — never commit
 data/
+
+# Personal Claude Code instructions — never commit
+CLAUDE.local.md

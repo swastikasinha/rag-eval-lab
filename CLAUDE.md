@@ -12,6 +12,11 @@ generation (RAG) system over Reserve Bank of India (RBI) circulars.
 - A change that touches retrieval or generation should come with an eval run, and a
   regression in these metrics is a bug.
 
+## Roadmap and status
+
+Step plan, spec, results table and current status: @docs/roadmap.md
+Update the Status section of docs/roadmap.md when a step is finished.
+
 ## Stack
 
 - **Python 3.12**, managed with **uv** (`uv sync`, `uv run ...`)
